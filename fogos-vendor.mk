@@ -3380,12 +3380,14 @@ PRODUCT_PACKAGES += \
     camera.qcom \
     com.qti.chi.override \
     fingerprint.goodix.default \
+    libAncFaceDetect \
     libBST3DDNS \
     libBSTHDRDETECT \
     libBSTMultiExpoGainHDR \
     libBSTNodeUtils \
     libaidenoiser \
     libaidenoiserv2 \
+    libancbase_fd \
     libarcsoft_chi_utils \
     libarcsoft_portrait_super_night_se_raw \
     libarcsoft_super_night_raw \
